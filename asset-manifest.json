@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/shankaravhadgroup/static/css/main.84aa1627.chunk.css",
+    "main.js": "/shankaravhadgroup/static/js/main.0c3d29ff.chunk.js",
+    "main.js.map": "/shankaravhadgroup/static/js/main.0c3d29ff.chunk.js.map",
+    "runtime-main.js": "/shankaravhadgroup/static/js/runtime-main.2c498db2.js",
+    "runtime-main.js.map": "/shankaravhadgroup/static/js/runtime-main.2c498db2.js.map",
+    "static/css/2.ea6b7726.chunk.css": "/shankaravhadgroup/static/css/2.ea6b7726.chunk.css",
+    "static/js/2.b37adc4e.chunk.js": "/shankaravhadgroup/static/js/2.b37adc4e.chunk.js",
+    "static/js/2.b37adc4e.chunk.js.map": "/shankaravhadgroup/static/js/2.b37adc4e.chunk.js.map",
+    "index.html": "/shankaravhadgroup/index.html",
+    "precache-manifest.e8f620dc9a00fb032608959ae6a1c96f.js": "/shankaravhadgroup/precache-manifest.e8f620dc9a00fb032608959ae6a1c96f.js",
+    "service-worker.js": "/shankaravhadgroup/service-worker.js",
+    "static/css/2.ea6b7726.chunk.css.map": "/shankaravhadgroup/static/css/2.ea6b7726.chunk.css.map",
+    "static/css/main.84aa1627.chunk.css.map": "/shankaravhadgroup/static/css/main.84aa1627.chunk.css.map",
+    "static/js/2.b37adc4e.chunk.js.LICENSE.txt": "/shankaravhadgroup/static/js/2.b37adc4e.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/shankaravhadgroup/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2c498db2.js",
+    "static/css/2.ea6b7726.chunk.css",
+    "static/js/2.b37adc4e.chunk.js",
+    "static/css/main.84aa1627.chunk.css",
+    "static/js/main.0c3d29ff.chunk.js"
+  ]
+}
