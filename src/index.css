@@ -5,6 +5,7 @@
 }.carousel{
     position: relative;
     top: 0%;left: 0%;
+    background-attachment: fixed;
 }main{
     position: absolute;
     top: 91%;left: 0%;
